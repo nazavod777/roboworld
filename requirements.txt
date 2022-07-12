@@ -1,0 +1,5 @@
+aiohttp==3.8.1
+aiohttp-proxy==0.1.2
+urllib3==1.26.8
+loguru==0.5.3
+pyuseragents==1.0.5
